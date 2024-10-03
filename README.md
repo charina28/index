@@ -1,1 +1,1 @@
-https://charina28.github.io/index/
+https://charina28.github.io/index/index.html
